@@ -36,8 +36,7 @@ ingredients_list= st.multiselect("Choose upto 5 ingredients:"
                                 )
 
 
-# st.write(ingredients_list)
-# st.text(ingredients_list)
+
 if ingredients_list:
     ingredients_string=''
     
